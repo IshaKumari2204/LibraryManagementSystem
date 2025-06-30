@@ -83,8 +83,9 @@ Each is a simple comma-separated file for persistent storage.
 ---
 
 ## 🚀 How to Run
-
+Use VS Code or IntelliJ to run Main.java.
+Or
 ```bash
 javac Main.java
 java Main
-Or use VS Code or IntelliJ to run Main.java.
+
