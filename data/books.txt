@@ -1,6 +1,0 @@
-B105,Operating Systems,Galvin,false
-B201,Biology For Engineers,H.K Das,true
-B202,Chemistry For Engineers,Neeraj Kumar,true
-B203 ,Advanced Physics,H.C Verma,true
-B106,Computer Networks,Sudarshan Iynger,true
-B107,Introduction to Object Oriented Programing,Jagpreet Singh,true
