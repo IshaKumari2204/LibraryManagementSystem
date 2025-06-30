@@ -32,15 +32,6 @@ A simple console-based **Library Management System** built using **Java**. It su
 
 ---
 
-## 📁 Project Structure
-
-LibraryManagementSystem/
-├── model/ # Data classes like Book, User, Student, Admin, BorrowRecord
-├── service/ # Core system logic and file management
-├── data/ # Text files storing users, books, and borrow records
-├── Main.java # Program entry point
-└── README.md # This file
-
 ## 🧪Admin Login
 Used a single admin system , for now its hardcoded .
 Admin ID: admin
