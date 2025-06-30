@@ -15,5 +15,5 @@ public class Admin extends User {
         System.out.println("4. Logout");
     }
 
-    // We'll add addBook(), removeBook(), etc. here later
+  
 }
